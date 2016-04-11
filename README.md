@@ -8,7 +8,8 @@ Prerequisite
 1. Android SDK
 2. Appium
 3. Maven (For managing dependencies)
-4. Eclipse (With TestNG plugin)
+4. Gradle 
+5. Eclipse (With TestNG plugin)
 
 Installation
 =====================
