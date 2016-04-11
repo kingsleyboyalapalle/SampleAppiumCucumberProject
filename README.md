@@ -13,7 +13,8 @@ Prerequisite
 Installation
 =====================
 1. Install from git (using git clone)
-2. Run "mvn clean install" from project directory
+2. Either Run `gradle check` from project directory
+2. Or Run `mvn clean install` to use maven as build tool
 
 Script Description
 =====================
